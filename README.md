@@ -14,3 +14,5 @@ Just testing
 final int BIG = Integer.MAX_VALUE;
 int thisWorks = 1_000_000
 ```
+
+in jshell, Integer. TAB shows Integer methods

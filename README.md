@@ -22,6 +22,9 @@ Double.MAX_VALUE + 1;
 ```
 
 *italics*
+
 **bold**
+
 ***nice***
-_like discord_
+
+_underscores_

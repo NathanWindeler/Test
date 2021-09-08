@@ -20,3 +20,8 @@ in jshell, Integer. TAB shows Integer methods
 Integer.MAX_VALUE;
 Double.MAX_VALUE + 1;
 ```
+
+*italics*
+**bold**
+***nice***
+_like discord_

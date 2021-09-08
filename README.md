@@ -11,5 +11,6 @@ Just testing
 
 ### Remember constants should be capitalized
 ```java
-final int BIG = Integer.max;
+final int BIG = Integer.MAX_VALUE;
+int thisWorks = 1_000_000
 ```

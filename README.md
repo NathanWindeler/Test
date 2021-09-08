@@ -12,7 +12,11 @@ Just testing
 ### Remember constants should be capitalized
 ```java
 final int BIG = Integer.MAX_VALUE;
-int thisWorks = 1_000_000
+int thisWorks = 1_000_000;
 ```
 
 in jshell, Integer. TAB shows Integer methods
+```java
+Integer.MAX_VALUE;
+Double.MAX_VALUE + 1;
+```
